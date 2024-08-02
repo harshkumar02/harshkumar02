@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently a First year student in DY PATIL UNIVERSITY 
+🔭 I’m currently a .NET DevelpDeveloper in a IT company
 - 🌱 I’m currently learning Web Development and Software development
 -    Freelancer
 - 📫 How to reach me: 
