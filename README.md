@@ -7,7 +7,7 @@
 
                     My Website : harshtechsites.wordpress.com
                     
-                    LinkedIn   : www.linkedin.com/in/harsh-kumar-102002
+                    LinkedIn   : https://www.linkedin.com/in/harshkumar1002/
                     
 
 <!--
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development and Software development
 - 📫 How to reach me: 
                     My Website : harshtechsites.wordpress.com
-                    LinkedIn   : www.linkedin.com/in/harsh-kumar-102002
+                    LinkedIn: www.linkedin.com/in/harsh-kumar-102002
                     
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
